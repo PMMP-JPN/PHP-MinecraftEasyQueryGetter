@@ -1,22 +1,22 @@
 # PHP-MinecraftEasyQueryGetter
-you can get query easily!
-forked from https://github.com/anilcan44/MinecraftAvatarQuery
+you can get query easily!<br>
+forked from https://github.com/anilcan44/MinecraftAvatarQuery<br>
+<br>
+MinecraftAvatarQuery<br>
 
-MinecraftAvatarQuery
+Probably the easiest way to query your Minecraft server with avatars.<br>
 
-Probably the easiest way to query your Minecraft server with avatars.
+Features<br>
+Twitter-Bootstrap HTML framework<br>
+<br><br><br>
+How to Use<br><br>
+1) Download query.php file.<br>
+2) Edit the $SERVER_IP and $port variable to match your desired IP and port.<br>
+3) Upload the file to your webserver.<br>
+4) Done!<br>
 
-Features
-Twitter-Bootstrap HTML framework
-
-How to Use
-1) Download query.php file.
-2) Edit the $SERVER_IP and $port variable to match your desired IP and port.
-3) Upload the file to your webserver.
-4) Done!
-
-
-License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
-Big thanks to IamPhoenix's wonderful API.
+<br><br><br>
+License<br>
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.<br>
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/<br>
+Big thanks to IamPhoenix's wonderful API.<br>
