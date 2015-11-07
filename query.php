@@ -1,12 +1,10 @@
 <?php
-//The following script is tested only with servers running on Minecraft 1.7.
-$SERVER_IP="127.0.0.1"; //Insert the IP of the server you want to query. Query must be enabled in your server.properties file!
-$port = 19132;
-//You can either insert the DNS (eg. play.hivemc.com) OR the IP itself (eg. 187.23.123.21). 
+//The following script is tested only with servers running on pmmp1.6.
+$SERVER_IP="127.0.0.1"; //Insert the IP 
+$port = 19132;　//insert the port
+ 
 $url = "http://minecraft-api.com/api/query/";
 $ipp = ".php?ip=".$SERVER_IP."&port=".$port;
-//Put the collected player information into an array for later use.
-$array_list = explode(',', $data_list['players']);
 ?>
 <!DOCTYPE html>
 <html>
