@@ -1,7 +1,7 @@
 <?php
 //The following script is tested only with servers running on pmmp1.6.
 $SERVER_IP="127.0.0.1"; //Insert the IP 
-$port = 19132;　//insert the port
+$port = 19132;//insert the port
  
 $url = "http://minecraft-api.com/api/query/";
 $ipp = ".php?ip=".$SERVER_IP."&port=".$port;
